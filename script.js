@@ -33,7 +33,6 @@ console.log("input value is" + inputEl.value);
 	if (inputEl.value === "") {
 		alert("Put something in the box!")
 	} else if (inputEl.value > 10000) {
-		alert("That's a big number");
 		result = divideByTen(inputValue);
 	} else if (inputEl.value < 10000) {
         result = multiplyByFive(inputValue);
