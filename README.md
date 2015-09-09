@@ -4,8 +4,8 @@ Class exercise using pure javascript and html.
 #exercise instructions
 //Exercise: Write a basic HTML / JavaScript program that does the following
 
-In HTML, have a single text input field /n
-  //- In HTML , have a button
+In HTML, have a single text input field 
+In HTML , have a button
   //- In JavaScript, have a function divides a number by 10
   //- In JavaScript, have a function that multiplies a number by 5
   //- When the button is clicked, call a JavaScript function that checks if the user has entered in a value 
